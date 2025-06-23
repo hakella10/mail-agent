@@ -99,6 +99,6 @@ Follow the below steps:
    - ```python lms_agent.py```
 
 4) Launch a chat interface http://localhost:7860 via browser. 
-*Please note that response could be slow and sometimes with miss hits. Miss hits can be enhanced with a bit of prompt engineeering*
+*Please note that response could be slow and sometimes encounter miss hits. Miss hits can be reduced with a bit of prompt engineeering*
 
    ![Interact with ChatUI](images/LMStudio-usage.png)
