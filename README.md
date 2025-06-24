@@ -1,6 +1,6 @@
 # AI Mail Agent
 This project shows how to develop an Agentic AI Mail Assistant to interact with Gmail over APIs using either a MCP or LM Studio Agent SDK. 
-This is implemented using Python.
+This is implemented using Python. [https://medium.com/@hari10.nitw/ai-agentic-g-mail-assistant-e447ba025c5c]
 
 # Design
 
@@ -94,11 +94,10 @@ Follow the below steps:
 
 3) Activate venv and run the lms_agent.py. 
    - ```cd <path-to-dir/mail-agent>```
-   - ```python -m venv .venv```
    - ```.venv\Scripts\activate```
    - ```python lms_agent.py```
 
 4) Launch a chat interface http://localhost:7860 via browser. 
-*Please note that response could be slow and sometimes encounter miss hits. Miss hits can be reduced with a bit of prompt engineeering*
+*Please note that response could be slow and sometimes encounter miss hits. Miss hits can be reduced with a bit of prompt engineering*
 
    ![Interact with ChatUI](images/LMStudio-usage.png)
